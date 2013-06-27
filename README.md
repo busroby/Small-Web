@@ -1,4 +1,4 @@
-smallweb
+Small Web
 ========
 
 Universal Small Website
